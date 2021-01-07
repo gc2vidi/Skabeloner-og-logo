@@ -1,3 +1,3 @@
 # Skabeloner-og-logo
 
-Her kan findes sakbeloner til dokumenter og powerpoints.
+Her kan findes skabeloner til dokumenter og powerpoints.
